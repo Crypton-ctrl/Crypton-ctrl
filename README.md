@@ -1,9 +1,9 @@
 # 👾 CRYPTON.exe — Digital Identity
 
 <p align="center">
-  <img src="./assets/crypton-car-behind-text.gif"
+  <img src="./assets/crypton-full-width-banner.gif"
        width="100%"
-       alt="Crypton animated cyberpunk banner"/>
+       alt="CRYPTON animated banner"/>
 </p>
 
 <h1 align="center">⚡ SREE MURUGAN N M ⚡</h1>
