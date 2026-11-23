@@ -77,7 +77,7 @@ I enjoy CTF competitions, ethical hacking, digital forensics, Linux and security
 - 🧠 Constantly solving challenges and learning together.
 
 <p align="center">
-  <a href="YOUR_BLACKCATS_CTFtime_URL">
+  <a href="https://ctftime.org/team/427556">
     <img src="https://img.shields.io/badge/CTFtime-TEAM%20PROFILE-343A40?style=for-the-badge&logo=target"/>
   </a>
 </p>
@@ -202,7 +202,7 @@ Hands-on experiments involving Linux, networking, programming and security chall
   <a href="https://github.com/Crypton-ctrl">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sree-murugan-n-m-4b82a139b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nmsreemurugan07@gmail.com">
