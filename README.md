@@ -1,4 +1,4 @@
-#       👾 CRYPTON.exe — Digital Identity
+<h1 align="center">👾 CRYPTON.exe — Digital Identity</h1>
 
 <p align="center">
   <img src="./assets/crypton-full-width-banner.gif"
